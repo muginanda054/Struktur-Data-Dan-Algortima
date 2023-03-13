@@ -41,7 +41,7 @@ int main()
 
     if (hasil >= 0)
     {
-        cout <<"data yang anda cari telah ditemukan" <<endl;
+        cout << data[hasil] <<" ditemukan pada indeks ke-" << hasil << endl;
     }
     else
     {
